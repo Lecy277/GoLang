@@ -1,4 +1,4 @@
-# Golang
+# Taylor Series and Error Propagation
 
 The following code segments are various equitions such as the Taylor series plotted with gnuplot.
 Below are the PNG's that they render.
